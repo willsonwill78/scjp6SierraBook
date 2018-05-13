@@ -1,1 +1,2 @@
 ~"test content for git tutorial"~
+the tutorial explains how to use git

@@ -56,7 +56,7 @@ public class Test {
 		
 		/* Self test chap 2
 		 * Question 2 */
-		new Bottom("cesar");
+		new Bottom("cesardddddddddd");
 		System.out.println();
 		/* Self test chap 2
 		 * Question 6 */
