@@ -44,7 +44,7 @@ public class Test {
 			if (an instanceof Horse) {
 				((Horse) an).buck();
 				((Horse) an).eat();
-				((Horse) an).eat("Horseoo");
+				((Horse) an).eat("Horseee");
 			} else {
 				System.out.println("\n" + an.getName() );
 			}
